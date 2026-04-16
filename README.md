@@ -9,6 +9,7 @@ In 2003, Christine Miserandino created a metaphor called "Spoon Theory" that exp
 ## Get Notified
 Express your interest and stay updated as we build SpoonAble.
 
-[![Interest Form](https://shields.io)](https://docs.google.com/forms/d/e/1FAIpQLSdlmOwcD8N4Q-6KvnKtQ6YTE_TRn6YeesMQrN-ID1-LAL7B6w/viewform?usp=dialog)
+[👉 Click here to fill out our Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdlmOwcD8N4Q-6KvnKtQ6YTE_TRn6YeesMQrN-ID1-LAL7B6w/viewform?usp=dialog)
+
 
 
