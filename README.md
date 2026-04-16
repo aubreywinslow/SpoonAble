@@ -1,3 +1,5 @@
+![SpoonAble Logo][spoonable_logo.png]
+
 # SpoonAble
 ## What is SpoonAble?
 SpoonAble is a start-up created by two biomedical engineering students, dedicated to providing disability-adaptive, pre-portioned meals to your doorstep. This meal service is targeted towards those with disabilities to help them to effectively and enjoyably navigate the kitchen without the excess strain of shopping or preparation. Simple and healthy recipe kits with pre-prepped ingredients will be designed for easy use by individuals with disabilities. We will include these adapted recipes in a user-friendly app that allows customers to filter results by physical limitations, food allergies, and preference.
