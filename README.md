@@ -1,4 +1,4 @@
-![SpoonAble Logo](spoonable_logo.png)
+![SpoonAble Logo](SPOONABLE_NEW.png)
 
 # SpoonAble
 ## What is SpoonAble?
