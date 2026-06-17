@@ -13,8 +13,8 @@ In 2003, Christine Miserandino created a metaphor called "Spoon Theory" that exp
 - We have narrowed our interview process to people specifically with Parkinson’s and/or tremors
 - We will begin ideating potential solutions as we continue to chat with more people, and get their feedback
 ## Want to Help?
-Express your interest and stay updated as we build SpoonAble.
-Let us know in the form below if you have any questions or inputs :)
+- Express your interest and stay updated as we build SpoonAble.
+- Let us know in the form below if you have any questions or inputs :)
 
 [👉 Click here to fill out our Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdlmOwcD8N4Q-6KvnKtQ6YTE_TRn6YeesMQrN-ID1-LAL7B6w/viewform?usp=dialog)
 
